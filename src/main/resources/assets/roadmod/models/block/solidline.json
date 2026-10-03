@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "particle": "roadmod:block/asphalt",
+    "down": "roadmod:block/asphalt",
+    "up": "roadmod:block/solidline",
+    "north": "roadmod:block/solidline",
+    "south": "roadmod:block/solidline",
+    "east": "roadmod:block/asphalt",
+    "west": "roadmod:block/asphalt"
+  }
+}

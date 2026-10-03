@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "particle": "roadmod:block/sidewalk_top",
+    "down": "roadmod:block/sidewalk_bottom",
+    "up": "roadmod:block/sidewalk_top",
+    "north": "roadmod:block/sidewalk_side",
+    "south": "roadmod:block/sidewalk_side",
+    "east": "roadmod:block/sidewalk_side",
+    "west": "roadmod:block/sidewalk_side"
+  }
+}

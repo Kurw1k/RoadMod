@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "roadmod:block/solidquatro" },
+    "facing=south": { "model": "roadmod:block/solidquatro", "y": 180 },
+    "facing=east": { "model": "roadmod:block/solidquatro", "y": 90 },
+    "facing=west": { "model": "roadmod:block/solidquatro", "y": 270 }
+  }
+}

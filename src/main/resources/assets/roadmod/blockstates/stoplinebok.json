@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "roadmod:block/stoplinebok" },
+    "facing=south": { "model": "roadmod:block/stoplinebok", "y": 180 },
+    "facing=east":  { "model": "roadmod:block/stoplinebok", "y": 90 },
+    "facing=west":  { "model": "roadmod:block/stoplinebok", "y": 270 }
+  }
+}

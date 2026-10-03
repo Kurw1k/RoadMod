@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "roadmod:block/solidline" },
+    "facing=south": { "model": "roadmod:block/solidline", "y": 180 },
+    "facing=east":  { "model": "roadmod:block/solidline", "y": 90 },
+    "facing=west":  { "model": "roadmod:block/solidline", "y": 270 }
+  }
+}

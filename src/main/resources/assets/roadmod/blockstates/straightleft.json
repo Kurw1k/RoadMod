@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "roadmod:block/straightleft" },
+    "facing=south": { "model": "roadmod:block/straightleft", "y": 180 },
+    "facing=east":  { "model": "roadmod:block/straightleft", "y": 90 },
+    "facing=west":  { "model": "roadmod:block/straightleft", "y": 270 }
+  }
+}

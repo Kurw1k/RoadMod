@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "roadmod:block/smalldashedline" },
+    "facing=south": { "model": "roadmod:block/smalldashedline", "y": 180 },
+    "facing=east":  { "model": "roadmod:block/smalldashedline", "y": 90 },
+    "facing=west":  { "model": "roadmod:block/smalldashedline", "y": 270 }
+  }
+}
